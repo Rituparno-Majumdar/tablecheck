@@ -1,0 +1,2 @@
+[console_scripts]
+tablecheck = tablecheck.cli:main

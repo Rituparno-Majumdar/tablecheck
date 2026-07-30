@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/tablecheck/__init__.py
+src/tablecheck/cli.py
+src/tablecheck.egg-info/PKG-INFO
+src/tablecheck.egg-info/SOURCES.txt
+src/tablecheck.egg-info/dependency_links.txt
+src/tablecheck.egg-info/entry_points.txt
+src/tablecheck.egg-info/top_level.txt
+tests/test_cli.py
